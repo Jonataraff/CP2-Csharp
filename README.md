@@ -98,8 +98,8 @@ SistemaLoja/
 
 ## 🧑‍💻 Alunos
 
-**Jonata Rafael: RM552939**
-**Vinicius Silva - RM553240**
+Jonata Rafael — RM552939
+Vinicius Silva — RM553240
 
 
 ---
